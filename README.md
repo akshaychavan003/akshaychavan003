@@ -1,7 +1,7 @@
 ### नमस्ते (Namaste)🙏🏻, I am Akshay Chavan [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="[https://gomycode.com/wp-content/uploads/2023/10/1.gif](https://gomycode.com/wp-content/uploads/2023/10/1.gif)" width="230">
 
-  <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
+  <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;&center=true&width=400&height=50"></a>
 
 ### 𝓘 𝓪𝓶 𝓪  Tech and Data Science Enthusiast,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭  𝓽𝓸𝔀𝓪𝓻𝓭𝓼  using data to drive insight, PowerBI 𝓪𝓷𝓭 SQL ❤️
 
@@ -20,7 +20,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaantanu9&label=Profile%20views&color=0e75b6&style=flat-square" alt="shaantanu9" /> </p>
-<p> <img src="https://img.shields.io/github/followers/shaantanu9?style=social" alt="shaantanu9" /> </p>
+<p> <img src="https://img.shields.io/github/followers/akshaychavan003?style=social" alt="shaantanu9" /> </p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love talking About Code and meeting with different people </b>so if you want to say hi, <b> I'll be curious to know more!</b> 😊😊</em>
 
 ##  Let's get connected:
