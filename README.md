@@ -1,6 +1,6 @@
 ### नमस्ते (Namaste)🙏🏻, I am Akshay Chavan [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
-<img align='right' src="[https://gomycode.com/wp-content/uploads/2023/10/1.gif](https://gomycode.com/wp-content/uploads/2023/10/1.gif)" width="230">
 
+<img align='right' src="https://gomycode.com/wp-content/uploads/2023/10/1.gif" width="230">
   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;&center=true&width=400&height=50"></a>
 
 ### 𝓘 𝓪𝓶 𝓪  Tech and Data Science Enthusiast,𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭  𝓽𝓸𝔀𝓪𝓻𝓭𝓼  using data to drive insight, PowerBI 𝓪𝓷𝓭 SQL ❤️
